@@ -1,4 +1,8 @@
 # Tessssssste
 f1 {
-    oioioioioioioioioioioioioioioioi
+    aaa
+}
+
+f2 {
+    bbbbbbbbbbbbb
 }
